@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.157,=D:\1VARIOUS\labcppbuilder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,D:\1VARIOUS\1mpei\технологии программирования\5 сем\Project1PCH1.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,=D:\1VARIOUS\labcppbuilder\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,D:\1VARIOUS\1mpei\технологии программирования\5 сем\main.cpp=D:\1VARIOUS\1mpei\технологии программирования\5 сем\describ.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,D:\1VARIOUS\labcppbuilder\Project1PCH1.h=D:\1VARIOUS\1mpei\технологии программирования\5 сем\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.934,=D:\1VARIOUS\labcppbuilder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=D:\1VARIOUS\labcppbuilder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=D:\1VARIOUS\labcppbuilder\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,D:\1VARIOUS\1mpei\технологии программирования\5 cем мэвм\лаба1\File1.cpp=D:\1VARIOUS\1mpei\технологии программирования\5 сем\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.504,D:\1VARIOUS\labcppbuilder\Project1.cbproj=D:\1VARIOUS\1mpei\технологии программирования\5 сем\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,D:\1VARIOUS\labcppbuilder\describ.cpp=D:\1VARIOUS\1mpei\технологии программирования\5 сем\describ.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,D:\1VARIOUS\labcppbuilder\File1.cpp=D:\1VARIOUS\labcppbuilder\describ.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,=D:\1VARIOUS\labcppbuilder\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=D:\1VARIOUS\1mpei\технологии программирования\5 сем\File1.cpp</Transaction>
+    <Transaction>2023.09.15 02:53:29.659,=D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба1\File1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="main.cpp"/>
+    <File Path="File1.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
